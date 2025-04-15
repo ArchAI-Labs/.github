@@ -2,7 +2,7 @@
 
 **ArchAI-Labs** develops **ArchAI**, a suite of intelligent tools designed to automatically generate clear and structured documentation directly from code repositories. With ArchAI, development teams can eliminate manual tasks, improve software understanding and accelerate the project lifecycle.
 
-The first tool available is the [*code_explorer*](https://github.com/ArchAI-Labs/code_explainer) that creates the readme and UMLs for your repo!
+The first tool available is the [*code_explainer*](https://github.com/ArchAI-Labs/code_explainer) that creates the readme and UMLs for your repo!
 
 ## 🚀 Features
 
