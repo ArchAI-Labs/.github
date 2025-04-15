@@ -33,15 +33,3 @@ All projects within ArchAI-Labs are currently in beta and under continuous devel
 ## 📄License
 
 *All **ArchAI-Labs** projects are distributed under the **Apache 2.0 license**. You may freely use, modify, and distribute the code, abiding by the terms of the license.*
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
