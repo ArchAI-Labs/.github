@@ -25,14 +25,6 @@ ArchAI-Labs is an innovation hub dedicated to bridging the gap between complex c
 
 ---
 
-### 📈 Activity & Insights
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArchAI-Labs&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&text_color=586069&icon_color=0078D4" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchAI-Labs&layout=compact&theme=transparent&hide_border=true&title_color=0078D4&text_color=586069" height="150" />
-</p>
-
----
-
 ### 🧑‍💻 Contributing
 We believe in open-source collaboration. To contribute:
 1. Open an **Issue** to discuss your ideas.
